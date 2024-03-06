@@ -1,1 +1,36 @@
-[]
+[
+	{
+		"names": [
+			"&mt rwin lang1"
+		],
+		"description": "&mt rwin lang1",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	},
+	{
+		"names": [
+			"&mt lwin lang2"
+		],
+		"description": "&mt lwin lang2",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
